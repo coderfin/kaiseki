@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c413a2a8.chunk.css",
+    "main.js": "/static/js/main.9fbc1b2e.chunk.js",
+    "main.js.map": "/static/js/main.9fbc1b2e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3d174774.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3d174774.js.map",
+    "static/js/2.700eaae2.chunk.js": "/static/js/2.700eaae2.chunk.js",
+    "static/js/2.700eaae2.chunk.js.map": "/static/js/2.700eaae2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c413a2a8.chunk.css.map": "/static/css/main.c413a2a8.chunk.css.map",
+    "static/js/2.700eaae2.chunk.js.LICENSE.txt": "/static/js/2.700eaae2.chunk.js.LICENSE.txt",
+    "static/media/解析-logos_white.0cf5f326.png": "/static/media/解析-logos_white.0cf5f326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d174774.js",
+    "static/js/2.700eaae2.chunk.js",
+    "static/css/main.c413a2a8.chunk.css",
+    "static/js/main.9fbc1b2e.chunk.js"
+  ]
+}
